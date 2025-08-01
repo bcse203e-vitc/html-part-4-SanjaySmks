@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .box {
+    background-color: #f0f0f0;
+    margin: 20px 0;
+  }
+  
+
+  .box1 {
+    padding: 40px;
+    border: 5px solid #333;
+    background-color: #d1e7dd;
+  }
+  
+
+  .box2 {
+    padding: 10px;
+    border: 2px dashed #666;
+    background-color: #ffe5b4;
+  }
+  
+
+  .box3 {
+    padding: 20px;
+    margin: 50px 0;
+    background-color: #cfe2f3;
+  }

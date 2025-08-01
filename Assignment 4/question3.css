@@ -1,0 +1,30 @@
+#post-title {
+    font-size: 36px;
+    text-decoration: underline;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    font-family: 'Georgia', serif;
+}
+
+.article-paragraph, .author-info {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.read-more-btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.read-more-btn:hover {
+    background-color: #2980b9;
+}
